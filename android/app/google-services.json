@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721922963565",
+    "project_id": "contactfiremedium",
+    "storage_bucket": "contactfiremedium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721922963565:android:61047aea5761c369166764",
+        "android_client_info": {
+          "package_name": "com.example.contactfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdioIbNu04FUaQRaWseiAqWh7-kWYOP9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
